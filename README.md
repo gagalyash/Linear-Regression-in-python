@@ -1,6 +1,6 @@
 # Linear-Regression-in-python
-# Using Pandas
-# Numpy
-# Seaborn
-# Matplotlib
-# Scikit-Learn
+* Using Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Scikit-Learn
