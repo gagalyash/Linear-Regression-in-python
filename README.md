@@ -1,5 +1,8 @@
 # Linear-Regression-in-python
-* Using Pandas
+
+### Height & Weight Prediction Using
+
+* Pandas
 * Numpy
 * Seaborn
 * Matplotlib
